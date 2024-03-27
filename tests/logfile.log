@@ -1,0 +1,190 @@
+2024-03-23 20:58:39,754 : INFO : test_formSubmission : detail is:saha
+2024-03-23 20:58:40,269 : INFO : test_formSubmission : detail is:piu
+2024-03-23 20:58:40,668 : INFO : test_formSubmission : detail is:souvik
+2024-03-23 20:58:44,487 : INFO : test_e2e : getting all product
+2024-03-23 20:58:44,511 : INFO : test_e2e : iphone X
+2024-03-23 20:58:44,522 : INFO : test_e2e : Samsung Note 8
+2024-03-23 20:58:44,532 : INFO : test_e2e : Nokia Edge
+2024-03-23 20:58:44,541 : INFO : test_e2e : Blackberry
+2024-03-23 20:58:44,653 : INFO : test_e2e : entering Country name as Ind
+2024-03-23 20:58:49,816 : INFO : test_e2e : ×
+Success! Thank you! Your order will be delivered in next few weeks :-).
+2024-03-23 22:35:15,568 : INFO : test_formSubmission : detail is:saha
+2024-03-23 22:35:16,014 : INFO : test_formSubmission : detail is:piu
+2024-03-23 22:35:16,407 : INFO : test_formSubmission : detail is:souvik
+2024-03-23 22:35:20,553 : INFO : test_e2e : getting all product
+2024-03-23 22:35:20,582 : INFO : test_e2e : iphone X
+2024-03-23 22:35:20,593 : INFO : test_e2e : Samsung Note 8
+2024-03-23 22:35:20,601 : INFO : test_e2e : Nokia Edge
+2024-03-23 22:35:20,610 : INFO : test_e2e : Blackberry
+2024-03-23 22:35:20,721 : INFO : test_e2e : entering Country name as Ind
+2024-03-23 22:35:25,934 : INFO : test_e2e : ×
+Success! Thank you! Your order will be delivered in next few weeks :-).
+2024-03-24 00:56:20,533 : INFO : test_formSubmission : detail is:saha
+2024-03-24 00:56:21,054 : INFO : test_formSubmission : detail is:piu
+2024-03-24 00:56:21,514 : INFO : test_formSubmission : detail is:souvik
+2024-03-24 00:56:25,209 : INFO : test_e2e : getting all product
+2024-03-24 00:56:25,235 : INFO : test_e2e : iphone X
+2024-03-24 00:56:25,247 : INFO : test_e2e : Samsung Note 8
+2024-03-24 00:56:25,261 : INFO : test_e2e : Nokia Edge
+2024-03-24 00:56:25,269 : INFO : test_e2e : Blackberry
+2024-03-24 00:56:25,381 : INFO : test_e2e : entering Country name as Ind
+2024-03-24 00:56:30,609 : INFO : test_e2e : ×
+Success! Thank you! Your order will be delivered in next few weeks :-).
+2024-03-24 00:57:34,503 : INFO : test_formSubmission : detail is:saha
+2024-03-24 00:57:35,035 : INFO : test_formSubmission : detail is:piu
+2024-03-24 00:57:35,488 : INFO : test_formSubmission : detail is:souvik
+2024-03-24 00:57:38,890 : INFO : test_e2e : getting all product
+2024-03-24 00:57:38,917 : INFO : test_e2e : iphone X
+2024-03-24 00:57:38,925 : INFO : test_e2e : Samsung Note 8
+2024-03-24 00:57:38,934 : INFO : test_e2e : Nokia Edge
+2024-03-24 00:57:38,942 : INFO : test_e2e : Blackberry
+2024-03-24 00:57:39,055 : INFO : test_e2e : entering Country name as Ind
+2024-03-24 00:57:44,221 : INFO : test_e2e : ×
+Success! Thank you! Your order will be delivered in next few weeks :-).
+2024-03-24 01:03:40,047 : INFO : test_formSubmission : detail is:saha
+2024-03-24 01:03:40,622 : INFO : test_formSubmission : detail is:piu
+2024-03-24 01:03:41,060 : INFO : test_formSubmission : detail is:souvik
+2024-03-24 01:03:44,730 : INFO : test_e2e : getting all product
+2024-03-24 01:03:44,768 : INFO : test_e2e : iphone X
+2024-03-24 01:03:44,781 : INFO : test_e2e : Samsung Note 8
+2024-03-24 01:03:44,790 : INFO : test_e2e : Nokia Edge
+2024-03-24 01:03:44,799 : INFO : test_e2e : Blackberry
+2024-03-24 01:03:44,909 : INFO : test_e2e : entering Country name as Ind
+2024-03-24 01:03:50,065 : INFO : test_e2e : ×
+Success! Thank you! Your order will be delivered in next few weeks :-).
+2024-03-24 04:05:27,139 : INFO : test_formSubmission : detail is:saha
+2024-03-24 04:06:20,679 : INFO : test_formSubmission : detail is:saha
+2024-03-24 04:07:21,151 : INFO : test_formSubmission : detail is:saha
+2024-03-24 04:07:21,544 : INFO : test_formSubmission : detail is:piu
+2024-03-24 04:07:21,929 : INFO : test_formSubmission : detail is:souvik
+2024-03-24 04:07:25,075 : INFO : test_e2e : getting all product
+2024-03-24 04:07:25,102 : INFO : test_e2e : iphone X
+2024-03-24 04:07:25,111 : INFO : test_e2e : Samsung Note 8
+2024-03-24 04:07:25,121 : INFO : test_e2e : Nokia Edge
+2024-03-24 04:07:25,129 : INFO : test_e2e : Blackberry
+2024-03-24 04:07:25,246 : INFO : test_e2e : entering Country name as Ind
+2024-03-24 04:07:30,446 : INFO : test_e2e : ×
+Success! Thank you! Your order will be delivered in next few weeks :-).
+2024-03-24 04:28:59,978 : INFO : test_formSubmission : detail is:saha
+2024-03-24 04:29:00,408 : INFO : test_formSubmission : detail is:piu
+2024-03-24 04:29:00,793 : INFO : test_formSubmission : detail is:souvik
+2024-03-24 04:29:03,818 : INFO : test_e2e : getting all product
+2024-03-24 04:29:03,855 : INFO : test_e2e : iphone X
+2024-03-24 04:29:03,867 : INFO : test_e2e : Samsung Note 8
+2024-03-24 04:29:03,877 : INFO : test_e2e : Nokia Edge
+2024-03-24 04:29:03,889 : INFO : test_e2e : Blackberry
+2024-03-24 04:29:04,005 : INFO : test_e2e : entering Country name as Ind
+2024-03-24 04:29:09,172 : INFO : test_e2e : ×
+Success! Thank you! Your order will be delivered in next few weeks :-).
+2024-03-24 04:31:29,901 : INFO : test_formSubmission : detail is:saha
+2024-03-24 04:31:30,347 : INFO : test_formSubmission : detail is:piu
+2024-03-24 04:31:30,726 : INFO : test_formSubmission : detail is:souvik
+2024-03-24 04:31:33,493 : INFO : test_e2e : getting all product
+2024-03-24 04:31:33,522 : INFO : test_e2e : iphone X
+2024-03-24 04:31:33,534 : INFO : test_e2e : Samsung Note 8
+2024-03-24 04:31:33,545 : INFO : test_e2e : Nokia Edge
+2024-03-24 04:31:33,553 : INFO : test_e2e : Blackberry
+2024-03-24 04:31:33,666 : INFO : test_e2e : entering Country name as Ind
+2024-03-24 04:31:38,869 : INFO : test_e2e : ×
+Success! Thank you! Your order will be delivered in next few weeks :-).
+2024-03-24 04:37:30,776 : INFO : test_formSubmission : detail is:saha
+2024-03-24 04:37:31,193 : INFO : test_formSubmission : detail is:piu
+2024-03-24 04:37:31,553 : INFO : test_formSubmission : detail is:souvik
+2024-03-24 04:37:34,481 : INFO : test_e2e : getting all product
+2024-03-24 04:37:34,519 : INFO : test_e2e : iphone X
+2024-03-24 04:37:34,533 : INFO : test_e2e : Samsung Note 8
+2024-03-24 04:37:34,546 : INFO : test_e2e : Nokia Edge
+2024-03-24 04:37:34,555 : INFO : test_e2e : Blackberry
+2024-03-24 04:37:34,703 : INFO : test_e2e : entering Country name as Ind
+2024-03-24 04:37:39,902 : INFO : test_e2e : ×
+Success! Thank you! Your order will be delivered in next few weeks :-).
+2024-03-24 04:42:59,218 : INFO : test_formSubmission : detail is:saha
+2024-03-24 04:42:59,737 : INFO : test_formSubmission : detail is:piu
+2024-03-24 04:43:00,211 : INFO : test_formSubmission : detail is:souvik
+2024-03-24 04:43:03,635 : INFO : test_e2e : getting all product
+2024-03-24 04:43:03,669 : INFO : test_e2e : iphone X
+2024-03-24 04:43:03,679 : INFO : test_e2e : Samsung Note 8
+2024-03-24 04:43:03,690 : INFO : test_e2e : Nokia Edge
+2024-03-24 04:43:03,700 : INFO : test_e2e : Blackberry
+2024-03-24 04:43:03,840 : INFO : test_e2e : entering Country name as Ind
+2024-03-24 04:43:09,034 : INFO : test_e2e : ×
+Success! Thank you! Your order will be delivered in next few weeks :-).
+2024-03-24 04:46:03,749 : INFO : test_formSubmission : detail is:saha
+2024-03-24 04:46:04,282 : INFO : test_formSubmission : detail is:piu
+2024-03-24 04:46:04,785 : INFO : test_formSubmission : detail is:souvik
+2024-03-24 04:46:08,148 : INFO : test_e2e : getting all product
+2024-03-24 04:46:08,179 : INFO : test_e2e : iphone X
+2024-03-24 04:46:08,192 : INFO : test_e2e : Samsung Note 8
+2024-03-24 04:46:08,204 : INFO : test_e2e : Nokia Edge
+2024-03-24 04:46:08,214 : INFO : test_e2e : Blackberry
+2024-03-24 04:46:08,360 : INFO : test_e2e : entering Country name as Ind
+2024-03-24 04:46:13,564 : INFO : test_e2e : ×
+Success! Thank you! Your order will be delivered in next few weeks :-).
+2024-03-24 04:47:33,649 : INFO : test_formSubmission : detail is:saha
+2024-03-24 04:47:34,124 : INFO : test_formSubmission : detail is:piu
+2024-03-24 04:47:34,520 : INFO : test_formSubmission : detail is:souvik
+2024-03-24 04:47:37,416 : INFO : test_e2e : getting all product
+2024-03-24 04:47:37,461 : INFO : test_e2e : iphone X
+2024-03-24 04:47:37,476 : INFO : test_e2e : Samsung Note 8
+2024-03-24 04:47:37,490 : INFO : test_e2e : Nokia Edge
+2024-03-24 04:47:37,502 : INFO : test_e2e : Blackberry
+2024-03-24 04:47:37,665 : INFO : test_e2e : entering Country name as Ind
+2024-03-24 04:47:42,865 : INFO : test_e2e : ×
+Success! Thank you! Your order will be delivered in next few weeks :-).
+2024-03-24 04:49:28,740 : INFO : test_formSubmission : detail is:saha
+2024-03-24 04:49:29,267 : INFO : test_formSubmission : detail is:piu
+2024-03-24 04:49:29,672 : INFO : test_formSubmission : detail is:souvik
+2024-03-24 04:49:35,630 : INFO : test_e2e : getting all product
+2024-03-24 04:49:35,669 : INFO : test_e2e : iphone X
+2024-03-24 04:49:35,682 : INFO : test_e2e : Samsung Note 8
+2024-03-24 04:49:35,693 : INFO : test_e2e : Nokia Edge
+2024-03-24 04:49:35,704 : INFO : test_e2e : Blackberry
+2024-03-24 04:49:35,853 : INFO : test_e2e : entering Country name as Ind
+2024-03-24 04:49:41,057 : INFO : test_e2e : ×
+Success! Thank you! Your order will be delivered in next few weeks :-).
+2024-03-24 04:51:18,703 : INFO : test_formSubmission : detail is:saha
+2024-03-24 04:51:19,200 : INFO : test_formSubmission : detail is:piu
+2024-03-24 04:51:19,626 : INFO : test_formSubmission : detail is:souvik
+2024-03-24 04:51:22,673 : INFO : test_e2e : getting all product
+2024-03-24 04:51:22,717 : INFO : test_e2e : iphone X
+2024-03-24 04:51:22,729 : INFO : test_e2e : Samsung Note 8
+2024-03-24 04:51:22,743 : INFO : test_e2e : Nokia Edge
+2024-03-24 04:51:22,755 : INFO : test_e2e : Blackberry
+2024-03-24 04:51:22,902 : INFO : test_e2e : entering Country name as Ind
+2024-03-24 04:51:28,093 : INFO : test_e2e : ×
+Success! Thank you! Your order will be delivered in next few weeks :-).
+2024-03-24 04:53:37,603 : INFO : test_formSubmission : detail is:saha
+2024-03-24 04:53:38,095 : INFO : test_formSubmission : detail is:piu
+2024-03-24 04:53:38,549 : INFO : test_formSubmission : detail is:souvik
+2024-03-24 04:53:41,503 : INFO : test_e2e : getting all product
+2024-03-24 04:53:41,552 : INFO : test_e2e : iphone X
+2024-03-24 04:53:41,572 : INFO : test_e2e : Samsung Note 8
+2024-03-24 04:53:41,586 : INFO : test_e2e : Nokia Edge
+2024-03-24 04:53:41,603 : INFO : test_e2e : Blackberry
+2024-03-24 04:53:41,750 : INFO : test_e2e : entering Country name as Ind
+2024-03-24 04:53:46,927 : INFO : test_e2e : ×
+Success! Thank you! Your order will be delivered in next few weeks :-).
+2024-03-25 03:14:13,281 : INFO : test_formSubmission : detail is:Nilanjana Sarkar
+2024-03-25 03:15:24,970 : INFO : test_formSubmission : detail is:Nilanjana Sarkar
+2024-03-25 03:16:43,172 : INFO : test_formSubmission : detail is:Nilanjana Sarkar
+2024-03-25 03:17:03,526 : INFO : test_formSubmission : detail is:Subhrajyoti Saha
+2024-03-25 03:17:04,124 : INFO : test_formSubmission : detail is:Nilanjana Sarkar
+2024-03-25 03:17:04,718 : INFO : test_formSubmission : detail is:Rahul Shetty
+2024-03-25 03:17:05,273 : INFO : test_formSubmission : detail is:Souvik Saha
+2024-03-25 04:16:20,453 : INFO : test_formSubmission : detail is:Subhrajyoti Saha
+2024-03-25 04:16:20,896 : INFO : test_formSubmission : detail is:Nilanjana Sarkar
+2024-03-25 04:16:21,320 : INFO : test_formSubmission : detail is:Rahul Shetty
+2024-03-25 04:16:21,761 : INFO : test_formSubmission : detail is:Souvik Saha
+2024-03-25 04:24:39,106 : INFO : test_formSubmission : detail is:Subhrajyoti Saha
+2024-03-25 04:24:39,592 : INFO : test_formSubmission : detail is:Nilanjana Sarkar
+2024-03-25 04:24:40,031 : INFO : test_formSubmission : detail is:Rahul Shetty
+2024-03-25 04:24:40,402 : INFO : test_formSubmission : detail is:Souvik Saha
+2024-03-25 04:24:43,753 : INFO : test_e2e : getting all product
+2024-03-25 04:24:43,779 : INFO : test_e2e : iphone X
+2024-03-25 04:24:43,788 : INFO : test_e2e : Samsung Note 8
+2024-03-25 04:24:43,797 : INFO : test_e2e : Nokia Edge
+2024-03-25 04:24:43,806 : INFO : test_e2e : Blackberry
+2024-03-25 04:24:43,931 : INFO : test_e2e : entering Country name as Ind
+2024-03-25 04:24:49,122 : INFO : test_e2e : ×
+Success! Thank you! Your order will be delivered in next few weeks :-).
